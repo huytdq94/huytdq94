@@ -15,7 +15,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=huytdq94&show_icons=true&count_private=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=huytdq94&show_icons=true&count_private=true&theme=dark&" width="400"></a>
 </p>
 
 ---
@@ -49,6 +49,6 @@
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huytdq94&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huytdq94&theme=dark&background=0E1117)](https://git.io/streak-stats)
   
 </div>
