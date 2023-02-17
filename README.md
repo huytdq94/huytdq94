@@ -1,17 +1,22 @@
-<div id="badges" align="center">
-  <h1>
-    Hi there, I'm Huy
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<h1 align='center'>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Huy 👨‍💻
+</h1>
+
+<p align='center'>
+  A PHP developer with more than six years of experience and focusing on the Shopware 6 platform with over 3 years in a Backend role
+</p>
+
+<p align='center'>
   
-  <a href="https://www.linkedin.com/in/truongdienquochuy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/truongdienquochuy/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+ 
+</p>
 
----
-
-I am a PHP developer with more than six years of experience and focusing on the Shopware 6 platform with over 3 years in a Backend role
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=huytdq94&show_icons=true&count_private=true&theme=dark" width="400"></a>
+</p>
 
 ---
 
