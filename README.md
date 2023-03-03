@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A PHP developer with more than six years of experience and focusing on the Shopware 6 platform with over 3 years in a Backend role
+  A PHP developer with more than six years of experience and focusing on the Shopware 6 platform with over 2 years in a Backend role
 </p>
 
 <p align='center'>
